@@ -1,0 +1,37 @@
+# Folders
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# ASP.NET specific
+*.dbmdl
+*.jfm
+*.bak
+*.sql
+*.pdb
+
+# EF Core
+*.csproj.user
+*.db
+*.sqlite
+*.suo
+*.user
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
